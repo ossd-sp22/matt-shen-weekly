@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Currently a seinor computer science major at NYU with minors in asl, chem, and psych. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I like cats.

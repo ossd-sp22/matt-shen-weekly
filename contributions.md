@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
+| Mar 6    | ![Contributions page](https://en.wikipedia.org/wiki/Special:Contributions/Sagittas)    | wiki    | grammatical errors     |
 |     |     |     |      |

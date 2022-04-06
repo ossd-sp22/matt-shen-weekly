@@ -1,0 +1,7 @@
+---
+layout: post
+title: Week 9: Zulip Group Work
+---
+
+## Group Work
+As a group, our main struggle was isntalling Zulip's dependencies. There were many steps, and it was quite confusing. It used a mixture of vagrant and docker; in the end, we were all able to set up our environment dependencies. We have also begun searching for an issue that we can claim and contribute towards. It seems as though most issues do not have the 'good first issue' label, so it may be difficult to find an acceptable first issue. 
